@@ -8,13 +8,13 @@
   "server": {
     "ip": "younghos.aternos.me",
     "port": 17850,
-    "version": "",
+    "version": "26.1.2 (69)",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 300,
     "z": 0
   },
   "utils": {
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": flase,
       "sneak": true
     },
     "chat-messages": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "WE ALL LOVE DODO!",
         "I like to play Minecraft!"
       ]
     },
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
